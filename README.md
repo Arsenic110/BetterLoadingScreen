@@ -1,15 +1,14 @@
-# BetterLoadingScreen [![Github All Releases](https://img.shields.io/github/downloads/Grummus/BetterLoadingScreen/total.svg)]()
-### Exactly what it says it is
+# NoMenuMusic
 
-Replaces the default VRChat world loading screen with the original warp tunnel!
+### Also exactly what it says it is
 
-<p align="center">
-  <img width="" height="" src="https://github.com/Grummus/BetterLoadingScreen/blob/master/preview.gif">
-</p>
+It literally just removes the music from the login & loading menus.
+Ripped apart and sewn back together from [Grummus/BetterLoadingScreen](https://github.com/Grummus/BetterLoadingScreen)
 
-Still Under Construction
+~~Still Under Construction~~ is it really though?
 
 ## Planned Features:
+
  - ✔ Option to toggle warp tunnel effect and other things
  - Get the old UI working!
 

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: warp_tunnel_001
+  m_Shader: {fileID: 4800000, guid: 2115ec39508bfc24fabd4195b8a41dbb, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _color:
+        m_Texture: {fileID: 2800000, guid: 6f61f97503d01614faf23f86c3d76f44, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Cutoff: 0.5
+    - _InvFade: 3
+    - _MaxFadeEnd: 873.4
+    - _MaxFadeStart: 400
+    - _Opacity: 0.157
+    - _Speed: -15
+    - _U_TileAnimFactor: 0.105
+    - _V_TileAnimFactor: 0.52
+    - _V_TileAnimFactor_copy: -0.19
+    - _Wiggle: 105.76
+    - _WiggleDist: 6.39
+    - _WiggleMult: 1
+    - _WiggleX: 0
+    - _WiggleY: 0
+    - _node_4296: 0.0482
+    - _node_5327: 0.95
+    - _node_5692: 0.322
+    - _node_7509: 0
+    - _node_7509_copy: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 0.5367702, g: 0.2210267, b: 0.2275594, a: 0.4078431}
+    - _node_6523: {r: 0.08088237, g: 0.733773, b: 1, a: 1}
